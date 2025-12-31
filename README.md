@@ -33,7 +33,7 @@ to support data-driven business decisions.
 
 ## Dashboard Preview
 ![Dashboard Overview](customer_revenue_overview.png)
-![Dashboard Overview](Customer Retention & Churn Page.png)
+![Dashboard Overview](customer_retention_churn.png)
 ![Dashboard Overview](revenue_analysis.png)
 
 ## How to Use
