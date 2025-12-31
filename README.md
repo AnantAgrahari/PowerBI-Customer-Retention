@@ -32,7 +32,7 @@ to support data-driven business decisions.
 - Automatic payment methods show stable revenue performance
 
 ## Dashboard Preview
-![Dashboard Overview](Customer & Revenue Overview Page.png)
+![Dashboard Overview](customer_revenue_overview.png)
 ![Dashboard Overview](Customer Retention & Churn Page.png)
 ![Dashboard Overview](Revenue Analysis Page.png)
 
