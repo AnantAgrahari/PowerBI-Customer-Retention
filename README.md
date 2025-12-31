@@ -32,7 +32,9 @@ to support data-driven business decisions.
 - Automatic payment methods show stable revenue performance
 
 ## Dashboard Preview
-![Dashboard Overview](screenshots/overview.png)
+![Dashboard Overview]()
+![Dashboard Overview]()
+![Dashboard Overview](Revenue Analysis Page.png)
 
 ## How to Use
 1. Download the `.pbix` file
