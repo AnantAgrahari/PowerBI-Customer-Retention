@@ -34,7 +34,7 @@ to support data-driven business decisions.
 ## Dashboard Preview
 ![Dashboard Overview](customer_revenue_overview.png)
 ![Dashboard Overview](Customer Retention & Churn Page.png)
-![Dashboard Overview](Revenue Analysis Page.png)
+![Dashboard Overview](revenue_analysis.png)
 
 ## How to Use
 1. Download the `.pbix` file
