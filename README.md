@@ -37,7 +37,7 @@ to support data-driven business decisions.
 ![Dashboard Overview](revenue_analysis.png)
 
 ## How to Use
-1. Download the `.pbix` file
+1. Download the ![Dashboard Overview](Customer Retention & Revenue Optimization.pbix) file
 2. Open in Power BI Desktop
 3. Refresh data and explore insights
 
