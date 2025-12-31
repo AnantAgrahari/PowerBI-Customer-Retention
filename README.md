@@ -12,7 +12,7 @@ to support data-driven business decisions.
 
 
 ## Dataset
-- Dimension Tables(dim_contract, dim_customers, dim_services)
+- Dimension Tables (dim_contract, dim_customers, dim_services)
 - Fact Tables ( fact_subscription )
 
 
